@@ -4,7 +4,7 @@
 
 	<p>
 
-		<small><a href="YOUR_URL">WHATEVER YOU &mdash; WANT</a></small>
+		<small><a href="http://www.eamanu.com">eamanu.com</a></small>
 
 	</p>
 

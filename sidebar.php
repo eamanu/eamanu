@@ -4,25 +4,18 @@
 		<div id="static">
 		
 		<div id="avatar"> 
-			<img src="AVATAR_URL" alt="THE_ALT" /> 
+			<img src="images/eamanu.jpeg" alt="eamanu-avatar" /> 
 		</div>
 		<div id="mini-bio">
-			<p>WHATEVER YOU WANT HERE.</p>
+			<p>Hello I am eamanu, python developer, C amateur developer and ML lover. I love contribute on free project!</p>
 		</div>
 		
 		<ul>			
 
-<li><a href="YOUR_LINKZ">projects</a></li>
 
 <li><a href="YOUR_LINKZ">archives</a></li>
 
-<li><a href="YOUR_LINKZ">contact</a></li>
-
-<li><a href="YOUR_LINKZ">search</a></li>
-
-<li><a href="http://apas.gr/kopimi">kopimi</a></li> <br />
-
-<li><a href="TWITTER_URL"><img src="YOUR_IMG_URL/twitter.png" height="14" /></a> | <a href="RSS_URL"><img src="YOUR_IMG_RUL/rss.png" /></a> | <a href="EMAIL_FEEDBURNER_URL"><img src="YOUR_IMG_URL/mail.png" height="14" /></a> </li>
+<li><a href="https://twitter.com/eamanu314"><img src="images/twitter.png" height="14" /></a> | <a href="https://github.com/eamanu"><img src="images/github-icon.png" /></a> | <a href="https://www.kaggle.com/eamanu"><img src="images/kaggle.png" height="14" /></a> </li>
 
 		</ul>
 		</div>
