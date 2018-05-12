@@ -22,6 +22,6 @@
 
 
 <div id="header">
-		<h2>name=<a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h2> 
+		<h2>name=<a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h2>
 		<p>printf("%s", name) /*f*cking diff*/</p>
 		</div>

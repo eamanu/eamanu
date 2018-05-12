@@ -1,0 +1,7 @@
+# Ignore pics
+*.png
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+/images/*
