@@ -1,4 +1,3 @@
-<?php /* Template Name: Emma */ ?>
 <?php get_header(); ?>
 
 	<div id="content">
@@ -9,7 +8,7 @@
 
 					<div class="post" id="post-<?php the_ID(); ?>">
 						<h2><a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title_attribute(); ?>"><?php the_title(); ?></a></h2>
-						
+
 					</div>
 				<?php $i++;?>
 				<?php endwhile; ?>
