@@ -6,7 +6,7 @@
 - FSF Member
 - PSF [Contributing Member](https://www.python.org/psf/membership/#what-membership-classes-are-there)
 - Free & Open Source enthusiast 
-- 📫 How to reach me: eamanu@yaerobi.com, eamanu@fsf ... IRC: eamanu
+- 📫 How to reach me: eamanu@yaerobi.com, eamanu@members.fsf.org ... IRC: eamanu
 
 ---
 
