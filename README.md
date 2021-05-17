@@ -18,6 +18,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python    12 mins         ████████████░░░░░░░░░░░░░   47.65 % 
+Gherkin   10 mins         █████████▓░░░░░░░░░░░░░░░   38.37 % 
+VimL      3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 ```
 <!--END_SECTION:waka-->
