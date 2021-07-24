@@ -18,10 +18,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python           11 hrs 46 mins  ██████████████▓░░░░░░░░░░   58.93 % 
-Other            4 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.95 % 
-YAML             1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-RobotFramework   1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Makefile         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Python                10 hrs 58 mins  ███████████████░░░░░░░░░░   60.34 % 
+Other                 3 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+YAML                  1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+RobotFramework        54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Debian Control file   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 <!--END_SECTION:waka-->
