@@ -18,10 +18,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python             10 hrs 14 mins  ███████████████████▒░░░░░   77.75 % 
-reStructuredText   1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-RobotFramework     41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-PHP                32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Git Config         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Python             9 hrs 59 mins   ███████████████████▓░░░░░   78.71 % 
+reStructuredText   1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+RobotFramework     41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+PHP                32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Other              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
