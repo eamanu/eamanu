@@ -18,10 +18,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python                1 hr 24 mins    █████████░░░░░░░░░░░░░░░░   35.53 % 
-TypeScript            29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Debian Control file   29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Java                  22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Markdown              21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Python                1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   29.68 % 
+Debian Control file   29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+HTML                  24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Java                  22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Properties            18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 ```
 <!--END_SECTION:waka-->
