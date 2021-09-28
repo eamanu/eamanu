@@ -18,10 +18,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python                17 hrs 7 mins   ██████████████████████▓░░   90.23 % 
-JSON                  58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Other                 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Debian Control file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Debian Sourcelist     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Python                15 hrs 9 mins   █████████████████████▓░░░   87.26 % 
+JSON                  57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Other                 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Debian Control file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Text                  10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
