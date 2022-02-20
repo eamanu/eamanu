@@ -18,11 +18,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 3 hrs 20 mins
-
-Python                2 hrs 17 mins   █████████████████░░░░░░░░   68.65 % 
-HTTP Request          29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-JSON                  26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-YAML                  6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Python         37 mins         █████████████▓░░░░░░░░░░░   54.95 % 
+JSON           26 mins         █████████▓░░░░░░░░░░░░░░░   39.20 % 
+HTTP Request   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 ```
 <!--END_SECTION:waka-->
