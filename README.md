@@ -19,7 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other                 4 mins          █████████████▓░░░░░░░░░░░   54.09 %
+Debian Control file   3 mins          ████████████████▒░░░░░░░░   65.87 %
+Other                 1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
 ```
 
 <!--END_SECTION:waka-->
