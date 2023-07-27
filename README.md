@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [Onapsis](http://onapsis.com)
-- [Debian Maintainer](https://qa.debian.org/developer.php?login=eamanu%40yaerobi.com)
+- [Debian Developer](https://qa.debian.org/developer.php?login=eamanu%40yaerobi.com)
 - FSF Member
 - PSF [Contributing Member](https://www.python.org/psf/membership/#what-membership-classes-are-there)
 - Free & Open Source enthusiast 
