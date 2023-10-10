@@ -19,7 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash     1 min           █████████████████░░░░░░░░   67.46 %
+Prolog   0 secs          ████████░░░░░░░░░░░░░░░░░   32.54 %
 ```
 
 <!--END_SECTION:waka-->
